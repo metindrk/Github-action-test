@@ -15,6 +15,6 @@ jobs:
       - name: python Command
         run: |
           import platform
-          pint
+          print
           (platform.processor())
         shell: python
