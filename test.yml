@@ -1,0 +1,11 @@
+name: Metin
+age: 52
+address: "hhhh:kjsjdn"
+active: true
+key: 
+  key: value
+  key2: 33
+
+array: 
+  -item1
+  -item2
